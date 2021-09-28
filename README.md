@@ -1,16 +1,3 @@
-# material_components
+# 使用 Material 组件
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter 提供了许多 widget，可帮助你构建遵循 Material Design 的应用。 Material 应用以 MaterialApp widget 开始，它在你的应用的底层下构建了许多有用的 widget。这其中包括 Navigator，它管理由字符串标识的 widget 栈，也称为“routes”。 Navigator 可以让你在应用的页面中平滑的切换。使用 MaterialApp widget 不是必须的，但这是一个很好的做法。
